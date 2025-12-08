@@ -14,11 +14,9 @@ Um jogo interativo e divertido onde você precisa adivinhar a cor secreta em at�
 
 ## Cores Disponíveis
 
-O jogo inclui 20 cores nomeadas do HTML:
-- red, blue, green, yellow, purple
-- orange, pink, brown, gray, cyan
-- magenta, lime, navy, teal, maroon
-- olive, coral, salmon, gold, indigo
+O jogo inclui 12 cores nomeadas do HTML:
+- red, blue, green, yellow, purple, magenta
+- orange, pink, brown, gray, cyan, lime
 
 ## Tecnologias Utilizadas
 
@@ -66,5 +64,6 @@ Este projeto foi desenvolvido para praticar:
 - Efeitos hover nos botões
 - Feedback visual colorido
 - Chips de cores interativos
+
 
 **Desenvolvido com 💜 para praticar desenvolvimento web!**
