@@ -37,7 +37,7 @@ O jogo inclui 12 cores nomeadas do HTML:
 
 ## Como Executar
 
-1. Acesse: https://tbloti.github.io/ColorGame/
+1. Acesse: https://tbloti.github.io/ColorsGame/
 2. Divirta-se jogando!
 
 ## Responsividade
@@ -67,3 +67,4 @@ Este projeto foi desenvolvido para praticar:
 
 
 **Desenvolvido com 💜 para praticar desenvolvimento web!**
+
